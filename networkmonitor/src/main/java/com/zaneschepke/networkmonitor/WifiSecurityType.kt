@@ -4,7 +4,7 @@ import android.net.wifi.WifiInfo
 
 enum class WifiSecurityType {
     UNKNOWN,
-    OPEN,
+    OPEN, 
     WEP,
     WPA2, // WPA and WPA2
     WPA3, // WPA3-Personal (SAE)
