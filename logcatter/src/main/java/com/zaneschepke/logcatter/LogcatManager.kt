@@ -88,3 +88,4 @@ class LogcatManager(pid: Int, logDir: String, maxFileSize: Long, maxFolderSize: 
         if (wasStarted) start()
     }
 }
+
