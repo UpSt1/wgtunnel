@@ -1,4 +1,3 @@
-
 import org.ajoberstar.grgit.Grgit
 import org.gradle.api.Project
 import org.semver4j.Semver
