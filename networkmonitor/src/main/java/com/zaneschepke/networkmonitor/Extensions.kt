@@ -1,4 +1,4 @@
-package com.zaneschepke.networkmonitor
+package com.zaneschepke.networkmonitor 
 
 import android.net.wifi.WifiManager
 import android.os.Build
